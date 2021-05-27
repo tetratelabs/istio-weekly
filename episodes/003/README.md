@@ -1,8 +1,8 @@
-# Istio the Easy Way with GetIstio
+# SSL certificates in Istio ingress gateway 
 
-- Hosted by Orion Letizi
+- Hosted by [Orion Letizi](https://twitter.com/orionletizi)
 - Presenters:
-  - Peter Jausovec
+  - [Peter Jausovec](https://twitter.com/pjausovec)
 - Recording date: May 26, 2021
 - Video: https://www.youtube.com/watch?v=nYJJ57WCkxE&list=PLm51GPKRAmTnMzTf9N95w_yXo7izg80Jc
 
