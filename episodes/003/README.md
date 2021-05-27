@@ -3,7 +3,7 @@
 - Hosted by [Orion Letizi](https://twitter.com/orionletizi)
 - Presenters:
   - [Peter Jausovec](https://twitter.com/pjausovec)
-- Recording date: May 26, 2021
+- Recording date: May 27, 2021
 - Video: https://www.youtube.com/watch?v=nYJJ57WCkxE&list=PLm51GPKRAmTnMzTf9N95w_yXo7izg80Jc
 
 ![episode image](003.png)
