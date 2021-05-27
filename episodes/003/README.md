@@ -14,6 +14,12 @@ In episode 3, we will talk about how to set up SSL certificates in your Istio in
 
 Demo script for all scenarios is [here](demo.md).
 
+### Resources
+
+- Let’s Encrypt: https://letsencrypt.org/ 
+- SSL For Free: https://www.sslforfree.com/ 
+- cert-manager: https://cert-manager.io/docs/ 
+
 ## Links
 
 - Community page: https://istio.tetratelabs.io/community
