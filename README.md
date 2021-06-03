@@ -2,7 +2,7 @@
 
 Istio weekly is Tetrate's bi-weekly live video stream, broadcasted live at 11am pacific time.
 
-Check out the [list of all episodes](playlist.md).
+Check out the [list of all Istio Weekly episodes](./istio-weekly/playlist.md).
 
 The offical [Istio weekly YouTube playlist can be found here](https://www.youtube.com/playlist?list=PLm51GPKRAmTnMzTf9N95w_yXo7izg80Jc).
 
