@@ -1,6 +1,4 @@
----
-description: 《Istio 大咖说》第 3 期，2021 年 6 月 8 日，嘉宾杨笛航，话题《如何让 Istio 变得更为高效和智能》。
----
+# 第 3 期
 
 - 时间：6 月 9 日（星期三）晚 8 点 - 9 点
 - 直播间：https://live.bilibili.com/23095515
@@ -8,7 +6,6 @@ description: 《Istio 大咖说》第 3 期，2021 年 6 月 8 日，嘉宾杨�
 - 嘉宾：杨笛航（网易数帆）
 - 话题：如何让 Istio 变得更为高效和智能
 - 直播回放：https://www.bilibili.com/video/BV18o4y1y75e/
-- 幻灯片归档：[GitHub]
 
 ## 嘉宾简介
 
