@@ -28,7 +28,7 @@ In episode 5, we will talk about Security in Istio. You'll learn about the diffe
 
 **Events**
 
-- July 6th - ZTA Webinar with USAF Chief Software Officer
+- July 6th - ZTA Webinar with USAF Chief Software Officer - [Register here](https://tetr8.io/zero-trust-webinar)
 - Istio Weekly #6: Envoy fundamentals: https://www.youtube.com/watch?v=f0QEHEm9ERc
 
 ## Connect
