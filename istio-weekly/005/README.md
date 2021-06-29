@@ -22,9 +22,9 @@ In episode 5, we will talk about Security in Istio. You'll learn about the diffe
   - [Zero Trust Architecture (SP 800-207)](https://csrc.nist.gov/publications/detail/sp/800-207/final)
   - [Building Secure Microservices-based Applications Using Service-Mesh Architecture (SP 800-204A)](https://csrc.nist.gov/publications/detail/sp/800-204a/final)
   - [Attribute-based Access Control for Microservices-based Applications Using a Service Mesh (SP 800-204B)](https://csrc.nist.gov/news/2021/draft-sp-800-204b-abac-for-microservices-apps)
-- Why you should choose NGAC as your access control model: tetr8.io/choose-ngac
-- Offload authn/authz to the mesh: tetr8.io/service-mesh-auth
-- Service mesh as security kernel: tetr8.io/mesh-security-kernel
+- [Why you should choose NGAC as your access control model](https://tetr8.io/choose-ngac)
+- [Offload authn/authz to the mesh](https://tetr8.io/service-mesh-auth)
+- [Service mesh as security kernel](https://tetr8.io/mesh-security-kernel)
 
 **Events**
 
