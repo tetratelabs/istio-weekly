@@ -1,6 +1,6 @@
 # Envoy fundamentals demo
 
-Let's start by running two Docker containers -- one is listening on port 3000 and the other one listening on port 5000.
+Let's start by running two Docker containers -- one is listening on port 5050 and the other one listening on port 5000.
 
 ```sh
 docker run -dit --env BG_COLOR="blue" -p 5050:3000 gcr.io/tetratelabs/color-app:1.0.0
