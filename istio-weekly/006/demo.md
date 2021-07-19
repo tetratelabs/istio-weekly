@@ -14,7 +14,7 @@ By the end of this demo we'll have an Envoy configuration that routes all traffi
 
 ## Installing func-e CLI
 
-Before we start writing the configuration, let's install a CLI call [func-e](https://func-e.io).
+Before we start writing the configuration, let's install a CLI called [func-e](https://func-e.io).
 
 You can use this CLI to manage and run different Envoy versions:
 
