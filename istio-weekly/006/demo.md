@@ -75,7 +75,7 @@ Let's create a very simple route config that just returns a direct response, jus
                     inline_string: "Hello"
 ```
 
-With this copnfiguration we're defining a single virtual host that matches any domains. Once it matches the domain, it will try to match the prefix. Once the prefix is matches as well it returns a direct response.
+With this configuration we're defining a single virtual host that matches all domains. Once it matches the domain, it will try to match the prefix. Once the prefix is matched as well it returns a direct response.
 
 Let's run Envoy with this configuration and send a request to `localhost:10000`:
 
