@@ -1,5 +1,6 @@
 # Istio Weekly Playlist Index
 
+- [007: Developing Envoy Wasm Extensions](007)
 - [006: Envoy fundamentals](006)
 - [005: Security in Istio](005)
 - [004: Deploying multiple Istio ingress gateways](004)
