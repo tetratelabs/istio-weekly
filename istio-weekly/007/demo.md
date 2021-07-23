@@ -445,13 +445,13 @@ tinygo build -o main.wasm -scheduler=none -target=wasi main.go
 
 And then re-run the Envoy proxy. Make a couple of requests like this:
 
-"`sh
+```sh
 curl -H "hello: something" localhost:10000
 ```
 
 You'll notice the log Envoy log entry like this one:
 
-"`text
+```text
 wasm log: hello_header_counter incremented
 ```
 
