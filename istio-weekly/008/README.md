@@ -12,16 +12,16 @@
 
 Istio CA generates a self-signed root certificate and key and uses them to sign all workload certificates. In this episode,  [Josh van Leeuwen](https://twitter.com/joshvanl) from [Jetstack](https://jetstack.io) will show us how to configure Istio and use [istio-csr](https://github.com/cert-manager/istio-csr)/[cert-manager](https://cert-manager.io/) to configure external CA for Istio to use.
 
-[DEMO](https://github.com/JoshVanL/tetrate-istio-weekly-2021-08-05)
-[Slides (PDF)](https://github.com/JoshVanL/tetrate-istio-weekly-2021-08-05/blob/main/assets/istio_External_CA.pdf)
+- [DEMO](https://github.com/JoshVanL/tetrate-istio-weekly-2021-08-05)
+- [Slides (PDF)](https://github.com/JoshVanL/tetrate-istio-weekly-2021-08-05/blob/main/assets/istio_External_CA.pdf)
 
 ## Episode notes
 
 **Weekly highlights**
-[Istio as an API Gateway](https://tetr8.io/istio-api-gateway)
-[Get started with Envoy in 5 min](https://tetr8.io/5-minute-envoy)
-[How to debug microservices in Kubernetes](https://tetr8.io/debug-microservices)
-[Tetrate Certified Istio Administrator](https://tetr8.io/istio-administrator)
+- [Istio as an API Gateway](https://tetr8.io/istio-api-gateway)
+- [Get started with Envoy in 5 min](https://tetr8.io/5-minute-envoy)
+- [How to debug microservices in Kubernetes](https://tetr8.io/debug-microservices)
+- [Tetrate Certified Istio Administrator](https://tetr8.io/istio-administrator)
 
 **Resources**
 - [Jetstack](https://www.jetstack.io/)
