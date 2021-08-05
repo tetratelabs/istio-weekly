@@ -1,5 +1,6 @@
 # Istio Weekly Playlist Index
 
+- [008: External CA in Istio](008)
 - [007: Developing Envoy Wasm Extensions](007)
 - [006: Envoy fundamentals](006)
 - [005: Security in Istio](005)
