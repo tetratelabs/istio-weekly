@@ -1,5 +1,6 @@
 # Istio Weekly Playlist Index
 
+- [010: How to become a certified Istio expert](010)
 - [009: Customizing Istio metrics](009)
 - [008: External CA in Istio](008)
 - [007: Developing Envoy Wasm Extensions](007)
