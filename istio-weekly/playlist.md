@@ -1,5 +1,6 @@
 # Istio Weekly Playlist Index
 
+- [011: Enterprise service mesh and why you need it](011)
 - [010: How to become a certified Istio expert](010)
 - [009: Customizing Istio metrics](009)
 - [008: External CA in Istio](008)
