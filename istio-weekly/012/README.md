@@ -3,7 +3,7 @@
 - Hosted by [Orion Letizi](https://twitter.com/orionletizi), [Peter Jausovec](https://twitter.com/pjausovec)
 - Guests:
   - [Aditya Prerepa](https://twitter.com/aprerepa)
-- Streamed live on Octover 1st, 4 pm PST, 2021
+- Streamed live on October 1st, 4 pm PST, 2021
 - Link: https://youtu.be/o3Fi6nwuuiI
 
 ![episode image](012.png)
