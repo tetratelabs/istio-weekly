@@ -1,6 +1,7 @@
 # Istio Weekly Playlist Index
 
-- [013:Access Control for Microservices](013)
+- [014: Istio's new Wasm-based extension mechanism and ecosystem](014)
+- [013: Access Control for Microservices](013)
 - [012: How I started contributing to Istio and Envoy](012)
 - [011: Enterprise service mesh and why you need it](011)
 - [010: How to become a certified Istio expert](010)
