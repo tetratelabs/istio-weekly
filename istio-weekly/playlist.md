@@ -1,5 +1,7 @@
 # Istio Weekly Playlist Index
 
+- [016: How Istio configures Envoy proxies](016)
+- [015: Setting up Istio with external control plane](015)
 - [014: Istio's new Wasm-based extension mechanism and ecosystem](014)
 - [013: Access Control for Microservices](013)
 - [012: How I started contributing to Istio and Envoy](012)
