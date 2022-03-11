@@ -6,6 +6,8 @@ Check out the [list of all Istio Weekly episodes](./istio-weekly/playlist.md).
 
 The offical [Istio weekly YouTube playlist can be found here](https://www.youtube.com/playlist?list=PLm51GPKRAmTnMzTf9N95w_yXo7izg80Jc).
 
+Join the [Tetrate Slack Community](https://tetr8.io/tetrate-community) for Istio weekly and other mesh discussions. 
+
 ## Istio Big Talk
 
 《Istio 大咖说》（Istio Big Talk）是由企业级服务网格提供商 Tetrate 冠名播出的系列直播节目，每期节目将邀请 Istio 和服务网格相关领域的大咖前来分享知识和生产实践。
