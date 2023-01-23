@@ -54,6 +54,8 @@ Let's update this config and add the HTTP filter and the router filter to the HT
           stat_prefix: edge
           http_filters:
           - name: envoy.filters.http.router
+            typed_config:
+              "@type": type.googleapis.com/envoy.extensions.filters.http.router.v3.Router
           route_config: {}
 ```
 
