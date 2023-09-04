@@ -149,15 +149,13 @@ static_resources:
                 http_filters:
                   - name: envoy.filters.http.wasm
                     typed_config:
-                      "@type": type.googleapis.com/udpa.type.v1.TypedStruct
-                      type_url: type.googleapis.com/envoy.extensions.filters.http.wasm.v3.Wasm
-                      value:
-                        config:
-                          vm_config:
-                            runtime: "envoy.wasm.runtime.v8"
-                            code:
-                              local:
-                                filename: "main.wasm"
+                      "@type": type.googleapis.com/envoy.extensions.filters.http.wasm.v3.Wasm
+                      config:
+                        vm_config:
+                          runtime: "envoy.wasm.runtime.v8"
+                          code:
+                            local:
+                              filename: "main.wasm"
                   - name: envoy.filters.http.router
 
 admin:
